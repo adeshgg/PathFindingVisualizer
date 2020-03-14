@@ -16,3 +16,14 @@ And use the following terminal commands:
 - ./test
 (Runs the code)
 
+
+### How to play with it!(Controls)
+
+- Hover the cursor over the block which is to selected as the source node and press "s" key to mark it, do the same for destination node but now press "t" key instead
+- To add Walls or obstruction hover over the blocks and keep pressing the "w" key
+- To remove Walls hover over the blocks and press the "a" key
+- To run the algorithm use "r" key(runs A* by default)
+- To run dijkstra use "d" and hit "r" key
+- To run A* back again use "z" key
+- Use "c" to clear the canvas and start with diffrent set of parameters
+
