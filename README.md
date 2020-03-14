@@ -9,10 +9,10 @@ Install the SFML Library in C++
 https://www.sfml-dev.org/download.php
 
 And use the following terminal commands:
--g++ -c main.cpp
+- g++ -c main.cpp
 (This compiles the code).
--g++ main.o -o test -lsfml-window -lsfml-graphics -lsfml-system
+- g++ main.o -o test -lsfml-window -lsfml-graphics -lsfml-system
 (Runs the output file and makes a test file to be executed).
--./test
+- ./test
 (Runs the code)
 
