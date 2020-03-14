@@ -27,4 +27,6 @@ And use the following terminal commands:
 - To run A* back again use "z" key
 - Use "c" to clear the canvas and start with diffrent set of parameters
 
+### Demo!!!
+
 ![pathVisual](https://user-images.githubusercontent.com/43462814/76686066-bb9f3480-663e-11ea-827a-5af26d9b9539.gif)
