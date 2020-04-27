@@ -4,7 +4,7 @@
 ### What it does?
 Given a source location , a destination location finds the shortest path to it taking into consideration the blocked paths and visually presents it using 2 different graph algoriths viz dijkstra and A-star (A*) algorithms, and once the program is executes it provides the number of nodes visited by each to the algorithm to reach to the solution.
 
-### Who to set it up?
+### How to set it up?
 Install the SFML Library in C++
 https://www.sfml-dev.org/download.php
 
